@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/RPK2103/RPK2103/assets/your-image-path/Purple-Modern-Neon-Game-Streamer-Twitch-Banner.svg" alt="Purple Modern Neon Game Banner" />
+  <img src="https://github.com/RPK2103/RPK2103/blob/main/assets/banner/Purple Modern Neon Game Streamer Twitch Banner.svg" alt="Profile Banner" />
 </p>
 
 # 🎮 Welcome to Kaviyashre’s Tech Quest!  
