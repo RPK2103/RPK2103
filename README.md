@@ -3,42 +3,37 @@
   <img src="https://github.com/RPK2103/RPK2103/blob/main/assets/banner/Purple Modern Neon Game Streamer Twitch Banner.svg" alt="Profile Banner" />
 </p>
 
-# 🎮 Welcome to Kaviyashre’s Tech Quest!  
+<!-- Game Start GIF -->
+<p align="center">
+  ![](https://github.com/RPK2103/RPK2103/blob/main/assets/game_image/enter-the-maze.gif)
+</p>
 
-🕹️ **Current Character:** Former Software Engineer 1 @ J.P. Morgan Chase  
-🗺️ **Mission Map:** Asset & Wealth Management Domain  
-⚔️ **Skills Equipped:** Spring Boot (Epic), JavaScript (Rare), Kubernetes (Rare)  
-💰 **Loot Collected:** Financial tools built to power enterprise systems  
 
-🏫 **Origin Story:** B.Tech in Computer Science from SRM Institute of Science and Technology  
-🧩 **Core Powers:** Problem-solving, algorithm mastery, creative thinking  
-🎨 **Bonus Skills:** React, Angular, Python  
-🧠 **Leveling Up:** Exploring AI/ML to unlock next-gen innovation quests  
+<!-- About me Section  as Backstory -->
 
-🚀 **Looking for Party Members!**  
-I’m seeking new co-op missions where strong engineering fundamentals meet creative imagination. If you’re building something meaningful in the techverse, **press Start to connect!**  
+# 🎮 Back Story
+<p align="justify">
+  🧩 From cracking math puzzles as a kid to architecting scalable systems in the world of finance, my tech quest has been powered by endless curiosity, creativity, and evolution.
 
----
+⚔️ Over the past year, I’ve played the role of Software Engineer 1 (Technology Analyst) at 🏰 J.P. Morgan Chase in the Asset & Wealth Management domain. There, I helped build and maintain real-world financial applications with a modern stack — Spring Boot 🪄, JavaScript ✨, Kubernetes 🧙‍♂️, and R for data-driven models 📊.
 
-## 👾 About Me (Player Stats)
+🏫 Before that, I earned my B. Tech in Computer Science and Engineering from SRM Institute of Science and Technology. That’s where I truly discovered my passion for problem-solving — from DSA battles ⚔️ to creative front-end illusions with React.js and Angular🎨. Along the way, I developed skills in C, C++, and Python to build a solid engineering foundation.
 
-- 🎓 B.Tech in Computer Science & Engineering (SRM IST)  
-- 🖥️ Developed secure, scalable financial platforms at JPMC  
-- 🔮 Turning complex puzzles into beautiful solutions  
-- 🧩 Strengths in DSA, system design, creative user interfaces  
-- 💃 Dancing fanatic who grooves bugs away  
-- 📝 Blogger, open-source contributor, event organizer, and public speaker  
-- 🌱 Always training to master new skills and next-gen tech  
+🧠 As I transition to my next quest, I’m leveling up in the AI/ML skill tree to combine software engineering with intelligent, scalable systems. I’m drawn to roles that involve product ownership, creative problem-solving, and making a significant impact.
 
----
+✨ Beyond code, I’m a dancing bard 💃, a public builder 📣, a blogger ✍️, and an open-source ally 🤝 — I thrive on creating with purpose and community.
 
-## 🤝 Connect With Me (Co-op Lobby)
+👉 If you’re building something epic in AI, full-stack, or product-tech — or just want to chat about the future of tech over a cup of coffee — let’s join forces! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/yourlinkedin)  
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge)](https://twitter.com/yourtwitterhandle)  
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:youremail@example.com)  
-[![Follow Me](https://img.shields.io/github/followers/RPK2103?label=Follow%20Me&style=social)](https://github.com/RPK2103)
 
+</p>
+
+## 🕹️ Connect With Me 
+<p align="center">
+[![LinkedIn](https://github.com/RPK2103/RPK2103/blob/main/assets/logo/LinkedIn-Logo.gif)](https://www.linkedin.com/in/kaviyashre-ragupathy-2103)  
+[![Mail](https://github.com/RPK2103/RPK2103/blob/main/assets/logo/LinkedIn-Logo.gif)](mailto:kaviyashreragupathy@gmail.com)  
+[![Follow Me](https://github.com/RPK2103/RPK2103/blob/main/assets/logo/Github-Logo.gif)](https://github.com/RPK2103)
+</p>
 ---
 
 ## 🛠️ Tech Stack (Inventory)
@@ -54,17 +49,3 @@ Others: R, REST APIs, UML
 
 
 
-<!--
-**RPK2103/RPK2103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
