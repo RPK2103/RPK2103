@@ -32,13 +32,13 @@
 ✨ Beyond code, I’m a dancing bard 💃, a public builder 📣, a blogger ✍️, and an open-source ally 
 🌱  — I thrive on creating with purpose and community.
 
-If you’re building something epic in AI, full-stack, or product-tech — or just want to chat about the future of tech over a cup of coffee — let’s join forces! 🚀
+
 
 </p>
 
 
 <!-- Connect with Me Section -->
-## 📣 Let's Connect 
+## 📣 Connect with Me 
 <!-- LinkedIn -->
 <p align="center">
   <a href="https://www.linkedin.com/in/kaviyashre-ragupathy-2103">
@@ -65,8 +65,12 @@ Frameworks: Spring Boot, React, Angular
 Tools: Kubernetes, Git, SQL, Power BI  
 Others: R, REST APIs, UML
 ```
+
+
 <div>&nbsp;</div>
 &nbsp;
+
+
 <!-- Footer that leads to maze game -->
 <div align="center">
  <br><br><br>
