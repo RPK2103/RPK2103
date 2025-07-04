@@ -54,7 +54,7 @@ If you’re building something epic in AI, full-stack, or product-tech — or ju
 
 
 <!-- Tech Stack -->
-## 🛠️ Tech Stack (Inventory)
+## 🛠️ Tech Stack 
 
 ```markdown
 Languages: Java, Python, JavaScript, C, C++  
