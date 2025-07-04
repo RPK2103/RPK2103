@@ -39,13 +39,16 @@ If you’re building something epic in AI, full-stack, or product-tech — or ju
 
 <!-- Connect with Me Section -->
 ## 📣 Let's Connect 
+<!-- LinkedIn -->
 <p align="center">
   <a href="https://www.linkedin.com/in/kaviyashre-ragupathy-2103">
     <img src="https://github.com/RPK2103/RPK2103/blob/main/assets/logo/LinkedIn-Logo.gif" width="100"   alt="Kaviyashre RP | LinkedIn"/>
   </a>
+ <!-- Mail -->
   <a href="mailto:kaviyashreragupathy@gmail.com">
     <img src="https://github.com/RPK2103/RPK2103/blob/main/assets/logo/MailBox-Logo.gif" width="100" alt="Mail"/>
   </a>
+ <!-- GitHub -->
   <a href="https://github.com/RPK2103">
     <img src="https://github.com/RPK2103/RPK2103/blob/main/assets/logo/Github-Logo.gif"width="100" alt="RPK2103 | Github"/>
   </a>
@@ -62,3 +65,10 @@ Frameworks: Spring Boot, React, Angular
 Tools: Kubernetes, Git, SQL, Power BI  
 Others: R, REST APIs, UML
 ```
+<div>&nbsp;</div>
+&nbsp;
+<!-- Footer that leads to maze game -->
+<div align="center">
+ <br><br><br>
+ <img src="https://github.com/RPK2103/RPK2103/blob/main/assets/footer/readme-footer.gif" alt="Footer"/>
+</div>
